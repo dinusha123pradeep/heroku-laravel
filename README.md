@@ -1,1 +1,1 @@
-# heroku-laravel - Dinusha
+# heroku-laravel - Dinusha Auto deploy
